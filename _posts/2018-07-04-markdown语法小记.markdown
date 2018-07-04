@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "markdown语法小记!"
-date:   2018-07-04 09:24:32
-categories: java
+title:  "markdown语法小记"
+date:   2018-07-04 16:04:32
+categories: 随笔
 ---
 ## 1. 标题
 标题（#）一共分六个等级
