@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Jekyll-Pithy.iml" filepath="$PROJECT_DIR$/.idea/Jekyll-Pithy.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/jchengpeng.github.io.iml" filepath="$PROJECT_DIR$/.idea/jchengpeng.github.io.iml" />
     </modules>
   </component>

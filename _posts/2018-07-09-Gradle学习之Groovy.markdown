@@ -16,27 +16,29 @@ def x = 100
 def s1 = "i am $x dolloar"
 println( s1 )
 ```
->结果：
-    i am 100 dolloar
+结果：i am 100 dolloar
 * 三引号类似文本框，字符串中可随意换行
 * 定义变量和函数用def关键字，函数如果有返回值，则可以不用def关键字
 * 如不用return，则函数最后一行代码为返回值
 * 函数调用可不加括号
 * 断言assert
->断言变量的长度
+断言变量的长度
+
 ```
 def s2 = "abc"
 assert s2.size()>3
 ```
 * for循环
->输出5个
+输出5个
+
 ```
 for (i in 0..<5){
     println("hello world")
 }
 ```
 * time循环
->循环4次（0,1,2,3）
+循环4次（0,1,2,3）
+
 ```
 4.times {
     println it
