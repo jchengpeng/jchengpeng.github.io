@@ -24,14 +24,14 @@ println( s1 )
 * 断言assert
 断言变量的长度
 
-```
+```groovy
 def s2 = "abc"
 assert s2.size()>3
 ```
 * for循环
 输出5个
 
-```
+```groovy
 for (i in 0..<5){
     println("hello world")
 }
@@ -39,7 +39,7 @@ for (i in 0..<5){
 * time循环
 循环4次（0,1,2,3）
 
-```
+```groovy
 4.times {
     println it
 }
